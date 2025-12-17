@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This project has migrated to Codeberg:** [codeberg.org/Gurjaka/Everforest-Wallpapers](https://codeberg.org/Gurjaka/Everforest-Wallpapers)
+>
+> From now on, it will only receive updates, issues, and pull requests on Codeberg. This GitHub repository is now **archived and read-only**.
+
 <div align="center">
 
 <img alt="Everforest Icon" src="./everforest.svg" width="180px"/>
